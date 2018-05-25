@@ -1,0 +1,6 @@
+Object Oriented Modeling and Design-10cs71-OOMD
+Embedded Computing Systems-10cs72-ECS
+Programming the Web-10cs73-WP
+Advanced Computer Architecture-10cs74-ACA
+JAVA and J2EE-10cs75-JAVA
+C# Programming and .Net-10cs76-C#.Net

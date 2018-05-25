@@ -1,0 +1,6 @@
+System software-10cs51-S.S
+operating system-10cs52-O.S
+formal languages and automata theory-10cs53-FLT
+database mangementsystems-10cs54-dbm
+computer networks1-10cs55-CNI
+Software engineering-10cs56-S.E

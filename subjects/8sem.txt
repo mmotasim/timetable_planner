@@ -1,0 +1,6 @@
+engineering maths-10cs41
+computer organization-10cs42
+graph theory-10cs43
+microprocessors-10cs44
+unix and shell programming-10cs45
+analysis and design of algorithms-10cs46

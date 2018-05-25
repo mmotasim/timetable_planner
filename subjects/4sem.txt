@@ -1,0 +1,6 @@
+engineering maths-10cs41-mat
+computer organization-10cs42-co
+graph theory-10cs43-gt
+microprocessors-10cs44-mewp
+unix and shell programming-10cs45-usp
+analysis and design of algorithms-10cs46-ada

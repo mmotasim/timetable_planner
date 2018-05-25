@@ -1,0 +1,6 @@
+compiler design-10cs61-C.D
+computer graphics and visualization-10cs62-CGV
+computer networks II-10cs63-CNII
+data compression-10cs64-D.C
+operattions research-10cs65-O.R
+Unix system programming-10cs66-USP

@@ -1,0 +1,6 @@
+engineering maths-10cs31-MAT
+electronic engineering-10cs32-ECE
+discrete mathematical structures-10cs33-DMS
+logic design-10cs34-L.D
+data structures using c-10cs35-DSC
+object oriented programming using c++ -10cs36-OOP
